@@ -3,7 +3,7 @@
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
 <a href="https://github.com/ErmanSayin/Themely/releases/latest">Download</a></h3>
 
-Current version: v1.3.1
+Current version: v1.3.2
 
 # Features
 - **Native code, which allows us to have...**
