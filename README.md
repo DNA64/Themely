@@ -24,6 +24,7 @@ Current version: v1.3.2
 
 # License
 Portions of this software are copyright © 2015 Sergi Granell (xerpi). MIT License.
+Portions of this software are copyright © 2013-2017 Niels Lohmann. MIT License.
 Portions of this software are copyright © 2017 The FreeType Project (www.freetype.org). All rights reserved.
 
 Copyright (c) 2017 Erman SAYIN. All rights reserved.
