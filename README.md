@@ -3,15 +3,16 @@
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
 <a href="https://github.com/ErmanSayin/Themely/releases/latest">Download</a></h3>
 
-Current version: v1.3.2
+Current version: v1.4.0
 
 # Features
 - **Native code, which allows us to have...**
 - **... up to 380% speed increase from CHMM2**
 - ZIP support (ignores invalid ZIPs)
-- BGM preview support (CHMM is usually hit or miss with this one)
+- BCSTM player (instead of OGG)
 - Instant theme preview
 - Fullscreen preview
+- 3DSThem.es browser
 - QR Code reader
 - Install without BGM
 - Theme shuffle
@@ -26,5 +27,6 @@ Current version: v1.3.2
 Portions of this software are copyright © 2015 Sergi Granell (xerpi). MIT License.
 Portions of this software are copyright © 2013-2017 Niels Lohmann. MIT License.
 Portions of this software are copyright © 2017 The FreeType Project (www.freetype.org). All rights reserved.
+Portions of this software are copyright © 2014 Thomas Edvalson, 2017 cheuble. MIT License.
 
 Copyright (c) 2017 Erman SAYIN. All rights reserved.
