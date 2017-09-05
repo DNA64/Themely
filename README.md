@@ -4,7 +4,7 @@
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
 <a href="https://github.com/ErmanSayin/Themely/releases/latest">Download</a></h3>
 
-Current version: v1.4.1
+Current version: v1.4.2
 
 # Features
 - **Native code, which allows us to have...**
@@ -19,7 +19,7 @@ Current version: v1.4.1
 - Theme shuffle
 - Theme dumping
 - Self updater
-- Translations for French, and Turkish
+- Translations for French, Portuguese (thanks Ryumaru), Spanish (thanks Uyuiyu), Romanian (thanks adrot), Russian (thanks Jjck), and Turkish
 
 <h3 align="center">
 <a href="https://github.com/ErmanSayin/Themely/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">Planned features</a> - <a href="https://github.com/ErmanSayin/Themely/issues?q=is%3Aissue+is%3Aopen+label%3Abug">Known bugs</a>
