@@ -4,7 +4,7 @@
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
 <a href="https://github.com/ErmanSayin/Themely/releases/latest">Download</a></h3>
 
-Current version: v1.4.2
+Current version: v1.4.3
 
 # Features
 - **Native code, which allows us to have...**
@@ -26,9 +26,8 @@ Current version: v1.4.2
 </h3>
 
 # License
-Portions of this software are copyright © 2015 Sergi Granell (xerpi). MIT License.
 Portions of this software are copyright © 2013-2017 Niels Lohmann. MIT License.
-Portions of this software are copyright © 2017 The FreeType Project (www.freetype.org). All rights reserved.
 Portions of this software are copyright © 2014 Thomas Edvalson, 2017 cheuble. MIT License.
+Portions of this software are copyright (c) 2017 Bernardo Giordano. MIT License.
 
 Copyright (c) 2017 Erman SAYIN. All rights reserved.
